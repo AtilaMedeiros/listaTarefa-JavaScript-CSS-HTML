@@ -1,11 +1,13 @@
 
 ---
-# Desenvolvimento Web com API Criptomoedas
+# Lista da Tarefas
 ---
 
 <h1>
-    <img src="https://github.com/AtilaMedeiros/criptomoedasAPI-HTML-JavaScript/blob/main/img/web-list.png">
+    <img src="https://github.com/AtilaMedeiros/listaTarefa-JavaScript-CSS-HTML/blob/main/gif/Lista%20de%20tarefas.gif">
 </h1>
+
+
 
 
 # Indice
@@ -17,9 +19,9 @@
 ## 🔖&nbsp; Sobre
 
 
-Esse projeto foi modificado com o objetivo de pôr em prática o conhecimento adquirido em **manipular API com JavaScript** que aprendi no curso **Desenvolvimento Web com API de Criptomoedas** da "Digital Innovation One",  ministrado pela professora Bárbara Casac. 
+Esse projeto criado com o objetivo de pôr em prática o conhecimento adquirido em **manipular a DOM** que aprendi no curso **JS na Web: Manipule o DOM com JavaScript** da **Alura**, ministrado pelo professor Felipe Nascimento.
 
-Aproveitei a oportunidade para acrescentar o atributo **first_historical_data**, reescrevi o código e a estrutura do projeto.
+Aproveitei a oportunidade para acrescentar o botão **Reiniciar**, alterar o código CSS e acvrescentar alguns atributos para facilitar a interação com o usuário final.
 
 
 ---
@@ -31,22 +33,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - CSS
 - HTML
 - JavaScript
-- [Visual Studio Code](https://code.visualstudio.com/download/)
 
 ---
 
 ## 🗂 Como baixar o projeto
 
 **Clonar o repositório**
-- git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
-
-**Instale a extensão "Moesif Origin & CORS Changer" no navegador e deixe ativa**
-- [Chorme](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
-- [FireFox](https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
-
-
-**Instale o VSCode**
-- [Visual Studio Code](https://code.visualstudio.com/download/)
+- git clone https://github.com/AtilaMedeiros/listaTarefa-JavaScript-CSS-HTML.git
 
 **Instale a Extensão do VSCode "Live Server"**
  - Após instalada, clique com botão direito sobre o arquivo **index.html** e depois a opção **Open With Live Server**
