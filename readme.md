@@ -19,9 +19,9 @@
 ## 🔖&nbsp; Sobre
 
 
-Esse projeto criado com o objetivo de pôr em prática o conhecimento adquirido em **manipular a DOM** que aprendi no curso **JS na Web: Manipule o DOM com JavaScript** da **Alura**, ministrado pelo professor Felipe Nascimento.
+Esse projeto foi criado com o objetivo de pôr em prática o conhecimento adquirido em "**manipular o DOM**" que aprendi no curso "**JS na Web: Manipule o DOM com JavaScript**" na plataforma da **Alura**, ministrado pelo professor Felipe Nascimento.
 
-Aproveitei a oportunidade para acrescentar o botão **Reiniciar**, alterar o código CSS e acvrescentar alguns atributos para facilitar a interação com o usuário final.
+Aproveitei a oportunidade para acrescentar o botão **Reiniciar**, alterar o código CSS e acrescentar alguns atributos para facilitar a interação com o usuário final.
 
 
 ---
